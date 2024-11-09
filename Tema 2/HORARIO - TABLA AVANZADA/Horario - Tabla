@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sebastian Rizo</title>        
+</head>
+
+<!-- tr = filas -->
+<!-- td = cuadrados de la fila -->
+<!-- th = para que el texto ocupe mas de un espacio -->
+
+<body>
+    <table>
+        <tr><td>Horas</td><td>Lunes</td><td>Martes</td><td>Miercoles</td><td>Jueves</td><td>Viernes</td></tr>
+        <tr><td>8:30<br>9:30</td><td>ENDES<br>Entornos de desarrollo<td>ING<br>Ingles<td>LMSGI<br>Lenguajes de marcas<td>SIINF<br>Sistemas Informaticos<td>SAS<br>Sostenibilidad aplicada</td></tr>
+
+
+
+
+
+    </table>
+</body>
+</html>
+
