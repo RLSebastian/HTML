@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sebastian Rizo</title>        
+</head>
+<body>   
+    <h2>Lista Desordenada (UL)</h2>
+    <ul>
+        <li>PRG - Programación</li>
+        <li>DWE - Desarrollo Web en Entorno Cliente</li>
+        <li>DWS - Desarrollo Web en Entorno Servidor</li>
+        <li>BD - Base de Datos</li>
+        <li>ED - Entorno de Desarrollo</li>
+    </ul>
+    
+    <h2>Lista Ordenada (OL)</h2>
+    <ol>
+        <li>PRG - Programación</li>
+        <li>DWE - Desarrollo Web en Entorno Cliente</li>
+        <li>DWS - Desarrollo Web en Entorno Servidor</li>
+        <li>BD - Base de Datos</li>
+        <li>ED - Entorno de Desarrollo</li>
+    </ol>
+    
+    <h2>Lista de Definición (DL)</h2>
+    <dl>
+        <dt>PRG</dt>
+        <dd>Programación: Fundamentos de programación y algoritmos.</dd>
+       
+        <dt>DWE</dt>
+        <dd>Desarrollo Web en Entorno Cliente: HTML, CSS y JavaScript para el desarrollo frontend.</dd>
+       
+        <dt>DWS</dt>
+        <dd>Desarrollo Web en Entorno Servidor: Programación de aplicaciones en el lado del servidor.</dd>
+       
+        <dt>BD</dt>
+        <dd>Base de Datos: Diseño y gestión de bases de datos relacionales.</dd>
+       
+        <dt>ED</dt>
+        <dd>Entorno de Desarrollo: Herramientas y entornos para el desarrollo de software.</dd>
+       
+    </dl>
+    
+
+</body>
+</html>
