@@ -1,0 +1,71 @@
+<receta>
+    <sopadecebollas>
+        <nombre>Sopa de cebollas</nombre>
+        <numeropersonas>4</numeropersonas>
+        <ingredientes>
+            <ingredienteindividual>
+                <cebollas>
+                    <cantidad>1 kilogramo</cantidad>
+                    <nombre>cebollas</nombre>
+                </cebollas>
+            </ingredienteindividual>
+            <ingredienteindividual>
+                <caldodecarne>
+                    <cantidad>2 Litros</cantidad>
+                    <nombre>Caldo de carne</nombre>
+                </caldodecarne>
+            </ingredienteindividual>
+            <ingredienteindividual>
+                <mantequilla>
+                    <cantidad>100 Gramos</cantidad>
+                    <nombre>Mantequilla</nombre>
+                </mantequilla>
+            </ingredienteindividual>
+            <ingredienteindividual>
+                <harina>
+                    <cantidad>1 cucharada</cantidad>
+                    <nombre>Harina</nombre>
+                </harina>
+            </ingredienteindividual>
+            <ingredienteindividual>
+                <queso>
+                    <cantidad>100 Gramos</cantidad>
+                    <nombre>Queso emmental suizo o gruyere rallado</nombre>
+                </queso>
+            </ingredienteindividual>
+            <ingredienteindividual>
+                <pantostado>
+                <nombre>Pan tostado en rebanadas</nombre>
+                </pantostado>
+            </ingredienteindividual>
+            <ingredienteindividual>
+                <tomillo>
+                    <nombre>Tomillo</nombre>
+                </tomillo>
+            </ingredienteindividual>
+            <ingredienteindividual>
+                <laurel>
+                    <cantidad>1 Hoja</cantidad>
+                    <nombre>Hoja de laurel</nombre>
+                </laurel>
+            </ingredienteindividual>
+            <ingredienteindividual>
+                <laurel>
+                    <nombre>Laurel</nombre>
+                </laurel>
+            </ingredienteindividual>
+        </ingredientes>
+
+<proceso>
+    <pasos>
+        <paso>Pelar y partir las cebollas en rodajas finas</paso>
+        <paso>Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse</paso>
+        <paso>Añadir la harina sin dejar de remover</paso>
+        <paso>Ponerlo en una cazuela con el caldo, el tomillo y el laurel</paso>
+        <paso>Dejar cocer a fuego lento durante unos 15 minutos</paso>
+        <paso>Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno</paso>
+    </pasos>
+</proceso>
+
+    </sopadecebollas>
+</receta>

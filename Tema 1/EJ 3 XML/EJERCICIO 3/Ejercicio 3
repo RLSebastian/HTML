@@ -1,0 +1,41 @@
+<modulo>
+    <informacionmodulo>
+        <nombre> Lenguaje de marcas</nombre>
+        <ciclo>Ciclo formativo: DAM</ciclo>
+        <horas>Horas semanales: 4</horas>
+        <caracter>Asistencia obligatoria</caracter>
+        <fechainicio>Del: 2010-09-15</fechainicio>
+        <fechafinal>Al: 2011-06-30</fechafinal>
+    </informacionmodulo>
+
+<alumnos>
+    <alumno>
+        <nombre>Ana Fernandez Gutierrez</nombre>
+        <nif>16965696L</nif>
+        <telefono>789654321</telefono>
+        <email>ana.fdezgtrrez@hotmail.com</email>
+        <faltasasistencia>Sin faltas de asistencia</faltasasistencia>
+        <nota>No hay informacion de la nota</nota>
+        <direccion>
+            <calle>C/ El Percebe</calle>
+            <numero>13</numero>
+            <localidad>Santander</localidad>
+            <codigo_postal>39302</codigo_postal>
+        </direccion>
+    </alumno>
+    <alumno>
+        <nombre>Pepito Grillo</nombre>
+        <nif>98765432H</nif>
+        <telefono>656566555</telefono>
+        <email>yhyh@yahoo.com</email>
+        <faltasasistencia>Sin faltas de asistencia</faltasasistencia>
+        <nota>No hay informacion de las notas</nota>
+        <direccion>
+            <calle>Avd. El Pez</calle>
+            <numero>5</numero>
+            <localidad>Suances</localidad>
+            <codigo_postal >39401</codigo_postal>
+        </direccion>
+    </alumno>
+</alumnos>
+</modulo>

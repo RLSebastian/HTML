@@ -1,0 +1,14 @@
+<agenda>
+    <telefonocasa>
+        <nombre>nombre</nombre>
+        <apellidos>apellidos</apellidos>
+        <direccion>direccion</direccion>
+        <telefonos>telefonos</telefonos>
+    </telefonocasa>
+    <telefonotrabajo>
+        <nombre>nombre</nombre>
+        <apellidos>apellidos</apellidos>
+        <direccion>direccion</direccion>
+        <telefonos>telefonos</telefonos>
+    </telefonotrabajo>
+</agenda>
