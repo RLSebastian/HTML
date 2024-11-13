@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sebastian Rizo</title>        
+</head>
+
+<!-- tr = filas -->
+<!-- td = cuadrados de la fila -->
+<!-- th = para que el texto ocupe mas de un espacio -->
+
+<body>
+    <table border="3" style="font-family: sans-serif;">
+        <tr style="background-color: cornflowerblue;"><td style="background-color: coral;">Horas</td><td>Lunes</td><td>Martes</td><td>Miercoles</td><td>Jueves</td><td>Viernes</td></tr>
+        <tr><td style="background-color: #ff6961;">8:30<br>9:30</td><td>ENDES<br>Entornos de desarrollo<td>ING<br>Ingles<td>LMSGI<br>Lenguajes de marcas<td>SIINF<br>Sistemas Informaticos<td>SAS<br>Sostenibilidad aplicada</td></tr>
+        <tr><td style="background-color: #ff6961;">9:30<br>10:30</td><td>PROGR<br>Programacion</td><td>DAS<br>Digitalizacion aplicada</td><td>ENDES<br>Entornos de desarrollo</td><td>ENDES<br>Entornos de desarrollo</td><td>IPE<br>Itinerario personal</td></tr>
+        <tr><td style="background-color: #ff6961;">10:30<br>11:30</td><td>PROGR<br>Programacion</td><td>IPE<br>Itinerario personal</td><td>SIINF<br>Sistemas informaticos</td><td>PROGR<br>Programacion</td><td>PROGR<br>Programacion</td></tr>
+        <tr style="background-color: rgb(210, 30, 30); font-size: 15pt;"><td style="background-color: #ff6961;">11:30<br>12:00</td><td colspan="5" style="text-align: center;">RECREO</td></tr>
+        <tr><td style="background-color: #ff6961;">12:00<br>1:00</td><td>BADAT<br>Bases de datos</td><td>BADAT<br>Bases de datos</td><td>SIINF<br>Sistemas informaticos</td><td>PROGR<br>Programacion</td><td>PROGR<br>Programacion</td></tr>
+        <tr><td style="background-color: #ff6961;">1:00<br>2:00</td><td>BADAT<br>Bases de datos</td><td>BADAT<br>Bases de datos</td><td>BADAT<br>Bases de datos</td><td>IPE<br>Itinerario personal</td><td>SIINF<br>Sistemas informaticos</td></tr>
+        <tr><td style="background-color: #ff6961;">2:00<br>3:00</td><td>ING<br>Ingles</td><td>LMSGI<br>Lenguajes de marcas</td><td>BADAT<br>Bases de datos</td><td>LMSGI<br>Lenguajes de marcas</td><td>SIINF<br>Sistema informaticos</td></tr>
+
+    </table>
+</body>
+</html>
