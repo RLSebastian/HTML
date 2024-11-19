@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Índice de Actividades</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #0077b6;
+            color: #fff;
+            text-align: center;
+            padding: 8px; /* Encabezado más pequeño */
+            font-size: 1.15rem; /* Tamaño más pequeño para el encabezado */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-bottom: 4px solid #00b4d8;
+        }
+        main {
+            padding: 20px;
+        }
+        .tema {
+            margin-top: 0; /* Eliminar espacio superior entre los temas */
+            margin-bottom: 20px;
+        }
+        .tema h2 {
+            background-color: #48cae4;
+            padding: 10px;
+            border-radius: 8px;
+            margin: 0;
+            text-align: center;
+            font-size: 1.4rem;
+        }
+        .actividad {
+            background-color: #e0f7fa;
+            border: 1px solid #0077b6;
+            padding: 10px 15px; /* Reducir el padding para eliminar espacio */
+            margin-top: 10px;
+            border-radius: 10px;
+            box-shadow: none;
+            transition: transform 0.1s ease; /* Reducir la animación */
+        }
+        .actividad:hover {
+            transform: translateY(-2px); /* Reducir el movimiento en hover */
+        }
+        .actividad h3 {
+            color: #0077b6;
+            font-size: 1.2rem;
+            margin: 0; /* Eliminar margen inferior */
+        }
+        .actividad p {
+            font-size: 1rem;
+            color: #555;
+            margin: 0; /* Eliminar margen superior e inferior */
+        }
+        footer {
+            background-color: #0077b6;
+            color: #fff;
+            text-align: center;
+            padding: 8px;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Índice de Actividades</h1>
+    </header>
+
+    <main>
+        <section id="tema1" class="tema">
+            <h2>TEMA 1</h2>
+            <div class="actividad">
+                <h3>ACTIVIDAD TITULO</h3>
+                <p>DESCRIPCION ACTIVIDADES</p>
+            </div>
+            <div class="actividad">
+                <h3>ACTIVIDAD TITULO</h3>
+                <p>DESCRIPCION ACTIVIDADES</p>
+            </div>
+        </section>
+
+        <section id="tema2" class="tema">
+            <h2>TEMA 2</h2>
+            <div class="actividad">
+                <h3>ACTIVIDAD TITULO</h3>
+                <p>DESCRIPCION ACTIVIDADES</p>
+            </div>
+            <div class="actividad">
+                <h3>ACTIVIDAD TITULO</h3>
+                <p>DESCRIPCION ACTIVIDADES</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Sebastián Rizo López - Lenguaje de Marcas</p>
+    </footer>
+</body>
+</html>
