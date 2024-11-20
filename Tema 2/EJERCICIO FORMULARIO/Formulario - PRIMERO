@@ -7,28 +7,44 @@
 
 <style>
     form {
+     font-family: Arial, sans-serif;
      background-color: #48cae4;
      padding: 10px;
      border-radius: 8px;
-     margin: 0;
      text-align: center;
      font-size: 1.4rem;
 }
 </style>
 </head>
 <body>
+
+    <table style="background-color: #48cae4; font-family: Arial, Helvetica, sans-serif;" align="center" border="3" cellpadding="20">
+        <tr><td><p>
+        Nombre <input type="text" name="nombre" size="24" maxlength="40"><br>
+        Teléfono <input type="text" name="telefono" size="24" name="telefono" maxlenght="20"><br>
+        Contraseña <input type="password" name="contraseña" size="21" maxlenght="20"><br> 
+        </p></td></tr>
+    </table>
+    <br>
     <form action="">
         <p>
             Nombre <input type="text" name="nombre" size="25" maxlength="40"><br>
             Teléfono <input type="text" name="telefono" size="25" name="telefono" maxlenght="20"><br>
-            Contraseña <input type="password" name="contraseña" size="25" maxlenght="20"><br>
-
+            Contraseña <input type="password" name="contraseña" size="22" maxlenght="20"><br>
+            <br>
+            <br>
             ¿Cual es el lenguaje que mas usas?<br>
             HTML <input type="radio" name="prlenguaje" size="25" maxlenght="20">
             JAVA <input type="radio" name="prlenguaje" size="25" maxlenght="20">
             XML <input type="radio" name="prlenguaje" size="25" maxlenght="20">
             <br>
-            ¿Cual es el 
-        </p>
+            ¿Cual es el entorno que mas usas?<br>
+            Eclipse <input type="radio" name="prentorno" size="25" maxlenght="20">
+            Visual Studio <input type="radio" name="prentorno" size="25" maxlenght="20">
+            Notepad++ <input type="radio" name="prentorno" size="25" maxlenght="20">
+        </p> 
+    
+           
+
     </form>
 <body>
