@@ -9,10 +9,10 @@
     form {
      font-family: Arial, sans-serif;
      background-color: #48cae4;
-     padding: 10px;
-     border-radius: 8px;
+     padding: 2px;
+     border-radius: 10px;
      text-align: center;
-     font-size: 1.4rem;
+     font-size: 1;
 }
 </style>
 </head>
@@ -27,6 +27,7 @@
     </table>
     <br>
     <form action="">
+        <p>
             ¿Cual es el lenguaje que mas usas?<br>
             HTML <input type="radio" name="prlenguaje" size="25" maxlenght="20">
             JAVA <input type="radio" name="prlenguaje" size="25" maxlenght="20">
@@ -38,7 +39,7 @@
             Notepad++ <input type="radio" name="prentorno" size="25" maxlenght="20">
         </p> 
     
-           
+        
 
     </form>
 <body>
