@@ -27,12 +27,6 @@
     </table>
     <br>
     <form action="">
-        <p>
-            Nombre <input type="text" name="nombre" size="25" maxlength="40"><br>
-            Teléfono <input type="text" name="telefono" size="25" name="telefono" maxlenght="20"><br>
-            Contraseña <input type="password" name="contraseña" size="22" maxlenght="20"><br>
-            <br>
-            <br>
             ¿Cual es el lenguaje que mas usas?<br>
             HTML <input type="radio" name="prlenguaje" size="25" maxlenght="20">
             JAVA <input type="radio" name="prlenguaje" size="25" maxlenght="20">
