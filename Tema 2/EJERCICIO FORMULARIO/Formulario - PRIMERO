@@ -4,42 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
-
-<style>
-    form {
-     font-family: Arial, sans-serif;
-     background-color: #48cae4;
-     padding: 2px;
-     border-radius: 10px;
-     text-align: center;
-     font-size: 1;
-}
-</style>
 </head>
+<br><header style="font-weight: 800; font-family: Arial, Helvetica, sans-serif; text-align: center; font-size: x-large;">FORMULARIO - PRUEBA</header><br>
 <body>
 
     <table style="background-color: #48cae4; font-family: Arial, Helvetica, sans-serif;" align="center" border="3" cellpadding="20">
+    <form>
         <tr><td><p>
         Nombre <input type="text" name="nombre" size="24" maxlength="40"><br>
         Teléfono <input type="text" name="telefono" size="24" name="telefono" maxlenght="20"><br>
         Contraseña <input type="password" name="contraseña" size="21" maxlenght="20"><br> 
-        </p></td></tr>
-    </table>
-    <br>
-    <form action="">
-        <p>
+            <p>
             ¿Cual es el lenguaje que mas usas?<br>
             HTML <input type="radio" name="prlenguaje" size="25" maxlenght="20">
             JAVA <input type="radio" name="prlenguaje" size="25" maxlenght="20">
             XML <input type="radio" name="prlenguaje" size="25" maxlenght="20">
             <br>
+            <br>
             ¿Cual es el entorno que mas usas?<br>
             Eclipse <input type="radio" name="prentorno" size="25" maxlenght="20">
             Visual Studio <input type="radio" name="prentorno" size="25" maxlenght="20">
             Notepad++ <input type="radio" name="prentorno" size="25" maxlenght="20">
-        </p> 
-    
-        
-
+            <br>
+            <button style="color: red;" type="reset">Eliminar todo</button>
+        </p>
+        </p></td></tr>
     </form>
 <body>
