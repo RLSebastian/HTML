@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+
+<body>
+</head>
+    <header>
+        <div class=foto></img src="" alt="Foto"></div>
+        <h1>Sebastian Rizo Lopez</h1>
+        <p>Tecnico superior de Desarrollo de Aplicaciones Web</p>
+    </header>
+    <section class="cuerpo">
+        <h2>Experiencias</h2><br>
+        <h3>Titulaciones</h3><br>
+        <ul>
+            <li><p>Titulacion en tecnico de telecomunicaciones</p></li>
+            <li><p>Titulo Tecnico de sonido</p></li>
+            <li><p>Titulo de la ESO</p></li>
+        </ul>
+        <div class="idioma">
+        <h3>Idiomas</h3><br>
+            <p>Español</p>
+            <p>Ingles</p>
+            <p>Frances</p>
+        </div>
+        <div clase="trabajo">
+            <h3>Trabajos</h3><br>
+            <p>Trabajo en bar La Fria I</p>
+            <p>Trabajo en practicas BEEP</p>
+        </div>
+    </section>
+    <section class="aside">
+        <aside>
+            <div class="formaciones">
+                <h2>Formaciones</h2><br>
+                <p>GRADO SUPERIOR - DAW</p>
+                <p>GRADO MEDIO - TELECOMUNICACIONES</p>
+            </div>
+
+            <div class="cualidades">
+                <h2>Cualidades</h2><br>
+                <p>Diseñador</p>
+                <p>Trabajo en equipo</p>
+                <p>Resolutivo</p>
+            </div>
+
+        </aside>
+    </section>
+    
+    <footer>
+        <p>📞 656 32 13 56</p>
+        <p>📧 srizlop1009@g.educaand.es</p>
+        <p>📍 Los milagros CP/11500</p>
+    </footer>
+</body>
