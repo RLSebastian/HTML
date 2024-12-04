@@ -51,8 +51,10 @@
     </section>
     
     <footer>
-        <p>📞 656 32 13 56</p>
-        <p>📧 srizlop1009@g.educaand.es</p>
-        <p>📍 Los milagros CP/11500</p>
+        <section class="footer-info">
+            <p>📞 656 32 13 56</p>
+            <p>📧 srizlop1009@g.educaand.es</p>
+            <p>📍 Los milagros CP/11500</p>
+        </section>    
     </footer>
 </body>
