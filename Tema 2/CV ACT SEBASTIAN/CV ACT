@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="foto">
+                <img src="fotocv.png" alt="Descripción de la imagen">
+            </div>
+            <div class="info-personal">
+                <h1>Sebastian Rizo Lopez</h1>
+                <p>Técnico superior de Desarrollo de Aplicaciones Web</p>
+            </div>
+        </div>
+    </header>
+    <main class="content-wrapper">
+        <div class="container">
+            <section class="aside">
+                <aside>
+                    <div class="formaciones">
+                        <h2>Formaciones</h2>
+                        <p>Titulado de la ESO</p>
+                        <p>GRADO SUPERIOR - Desarrollo de Aplicaciones Web</p>
+                        <p>GRADO MEDIO - Telecomunicaciones</p>
+                    </div>
+
+                    <div class="cualidades">
+                        <h2>Cualidades</h2>
+                        <p>Con iniciativa</p>
+                        <p>Bueno trabajando en equipo</p>
+                        <p>Resolutivo</p>
+                    </div>
+                </aside>
+            </section>
+            <section class="cuerpo">
+                <h2>Experiencias</h2>
+                <h3>Titulaciones</h3>
+                <ul>
+                    <li><p>Titulación en técnico de telecomunicaciones</p></li>
+                    <li><p>Título Técnico de sonido</p></li>
+                    <li><p>Título de la ESO</p></li>
+                </ul>
+                <div class="idioma">
+                    <h3>Idiomas</h3>
+                    <p>Español</p>
+                    <p>Inglés</p>
+                    <p>Francés</p>
+                </div>
+                <div class="trabajo">
+                    <h3>Trabajos</h3>
+                    <p>Trabajo en bar La Fria I</p>
+                    <p>Trabajo en prácticas BEEP</p>
+                </div>
+                <div class="trabajo">
+                    <h3>Ubicacion</h3>
+                    <p>No he conseguido que google maps funcionase en este cv</p>
+                </div>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <section class="footer-info">
+            <p>📞 656 32 13 56</p>
+            <p>📧 srizlop1009@g.educaand.es</p>
+            <p>📍 Los Milagros CP/11500</p>
+        </section>
+    </footer>
+</body>
+</html>
