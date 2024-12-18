@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Sebastián Rizo López</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Curriculum Vitae</h1>
+        
+        <div class="section">
+            <h2>Datos Personales</h2>
+            <ul>
+                <li><strong>Nombre y apellidos:</strong> Sebastián Rizo López</li>
+                <li><strong>Edad:</strong> 17 años</li>
+                <li><strong>Dirección actual:</strong> Pto. Sta. María. C/ Nuestra Señora De Regla, Bloque 6, 4ºD.</li>
+                <li><strong>DNI:</strong> 45388051N</li>
+                <li><strong>Teléfono de contacto:</strong> (+34) 625 14 01 56</li>
+                <li><strong>Correo electrónico:</strong> imnitrogg@gmail.com</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Datos Académicos</h2>
+            <ul>
+                <li><strong>Título de graduado en E.S.O.:</strong> I.E.S. Jose Luis Tejada Peluffo, 2022.</li>
+                <li><strong>Título de Técnico en Instalaciones de Telecomunicaciones:</strong> I.E.S. Mar De Cádiz, finalizado.</li>
+                <li><strong>Edición de vídeo:</strong> Edición de cortometrajes y anuncios (After Effects, DaVinci).</li>
+                <li><strong>Diseño gráfico:</strong> Carteles de presentación y propaganda (Photoshop).</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Objetivos</h2>
+            <p>Mi objetivo en esta empresa es desarrollar mis experiencias laborales para poder satisfacer las necesidades de la empresa.</p>
+        </div>
+
+        <div class="section">
+            <h2>Datos de Interés</h2>
+            <ul>
+                <li>Disponibilidad para viajar.</li>
+                <li>Conocimientos en ofimática.</li>
+                <li>Adaptación rápida.</li>
+                <li>Buena coordinación.</li>
+                <li>Buen estado físico.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
