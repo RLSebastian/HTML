@@ -1,0 +1,159 @@
+/* Estilos Generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: black;
+    font-size: 0.8em;
+    line-height: 1.9;
+}
+
+#contenedor {
+    width: 960px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.clear {
+    clear: both;
+}
+
+/* Cabecera */
+#cabecera {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+#logo h1 {
+    font-size: 24px;
+    color: orange;
+    margin: 0;
+    float: left;
+}
+
+#buscador {
+    float: right;
+    margin-top: 5px;
+}
+
+#buscador input[type="text"] {
+    padding: 5px;
+}
+
+/* Menú principal */
+#menu {
+    background-color: #3366cc;
+    padding: 10px 0;
+    border-bottom: 1px solid #004C99; /* Requisito 4 */
+}
+
+#menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#menu ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+#menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Lateral */
+#lateral {
+    width: 250px;
+    float: left;
+    margin: 10px 10px 10px 0;
+}
+
+#noticias {
+    border: 1px solid #C5C5C5; /* Requisito 5 */
+}
+
+#noticias h3, #publicidad h3 {
+    background-color: #ff9933;
+    color: white;
+    padding: 5px;
+    margin: 0 0 10px;
+}
+
+#noticias ul, #noticias p {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+#noticias ul li {
+    margin-bottom: 5px;
+}
+
+#publicidad {
+    border: 1px dashed #CC6600; /* Requisito 6 */
+}
+
+#publicidad p {
+    font-size: 12px;
+    margin: 0 0 10px;
+}
+
+/* Contenido principal */
+#contenido {
+    float: left;
+    width: 690px;
+    margin: 10px 0;
+}
+
+#principal {
+    float: left;
+    width: 440px;
+}
+
+#principal h2 {
+    font-size: 18px;
+    color: orange;
+    margin: 0 0 10px;
+}
+
+/* Artículos */
+.articulo {
+    color: #CC6600; /* Requisito 2 */
+    font-size: 1.6em;
+    line-height: 1.2;
+    margin-bottom: 0.3em; /* Requisito 2 */
+}
+
+/* Tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+table th {
+    background-color: #3366cc;
+    color: white;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+    font-size: 12px;
+    margin-top: 10px;
+    border-top: 1px solid #C5C5C5; /* Requisito 8 */
+    border-bottom: 1px solid #C5C5C5; /* Requisito 8 */
+}
